@@ -6,7 +6,7 @@
 
 
 
-#link 0 (https://chatgpt.com/share/6913691f-5f70-8009-9d03-e488ce499be0)
+#link 0 (https://chatgpt.com/share/6913691f-5f70-8009-9d03-e488ce499be0) (https://docs.google.com/presentation/d/112E0bcYM9qNBJVOdPNiouQSFCN_-Zq4l/edit?slide=id.g3a26a4f67df_0_0#slide=id.g3a26a4f67df_0_0)
 Perfect — I’ve read your MoQ.pptx deck. It’s a clean, concise summary of your two-week reading sprint.
 Here’s a slide-by-slide speaking guide (≈ 1–2 minutes per slide) you can follow when presenting it to your potential professor:
 
